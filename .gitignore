@@ -1,0 +1,17 @@
+# 过滤构建目录
+build/
+
+# 过滤巨型二进制目录
+TensorRT*/
+onnxruntime*/
+onnxruntime_gpu/
+
+# 过滤安装包
+*.tar.gz
+*.tgz
+
+# 过滤硬件绑定的推理引擎
+models/*.engine
+
+# 过滤临时备份
+*.bak
