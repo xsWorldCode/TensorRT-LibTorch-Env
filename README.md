@@ -17,7 +17,7 @@
 * **OS**: Ubuntu 22.04 / WSL2
 * **GPU**: NVIDIA RTX 5060 Ti (或其它 Blackwell 架构显卡)
 * **CUDA**: 12.8
-* **LibTorch**: 2.x (Pre-built with CUDA)
+* **LibTorch**: 2.5 (Pre-built with CUDA)
 
 ## 🏃 快速开始
 
